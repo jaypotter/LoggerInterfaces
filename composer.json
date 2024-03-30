@@ -7,6 +7,11 @@
         "potter/logger-interface": "dev-main",
         "potter/logger-aware-interface": "dev-main"
     },
+    "suggest": {
+        "potter/logger": "dev-main",
+        "potter/contracts": "dev-main",
+        "potter/framework": "dev-main"
+    },
     "license": "MIT",
     "authors": [
         {
